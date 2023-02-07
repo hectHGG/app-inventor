@@ -1,26 +1,73 @@
 [{
-"id": "101",
+"lugar": "101",
 "Nombre": "EMILIO LÓPEZ RUÍZ DE SALAZAR",
-"Especialidad": "PATOLOGÍA DE LA EDIFICACIÓN"
+"informacion": "PATOLOGÍA DE LA EDIFICACIÓN"
 },
 {
-"id": "102",
-"Nombre": "JESÚS GÍL RUBIO",
-"Especialidad": "DISEÑO / CÁLCULO DE ESTRUCTURAS DE EDIFICACIÓN"
+"lugar": "102",
+"nombre": "JESÚS GÍL RUBIO",
+"informacion": "DISEÑO / CÁLCULO DE ESTRUCTURAS DE EDIFICACIÓN"
 },
 {
-"id": "103",
+"lugar": "103",
 "Nombre": "MARÍA AZCOITIA PLAZA",
-"Especialidad": "REHABILITACIÓN"
+"informacion": "REHABILITACIÓN"
 },
 {
-"id": "104",
+"lugar": "104",
 "Nombre": "VALENTINA MERINO LÓPEZ",
-"Especialidad": "REHABILITACIÓN"
+"informacion": "REHABILITACIÓN"
 },
 {
-"id": "105",
+"lugar": "105",
 "Nombre": "JAVIER LÓPEZ SANCHEZ",
-"Especialidad": "PATOLOGÍA DE LA EDIFICACIÓN"
+"informacion": "PATOLOGÍA DE LA EDIFICACIÓN"
+},
+{
+"lugar": "106",
+"Nombre": "EMILIO LÓPEZ RUÍZ DE SALAZAR",
+"informacion": "PATOLOGÍA DE LA EDIFICACIÓN"
+},
+{
+"lugar": "107",
+"Nombre": "JESÚS GÍL RUBIO",
+"informacion": "DISEÑO / CÁLCULO DE ESTRUCTURAS DE EDIFICACIÓN"
+},
+{
+"lugar": "108",
+"Nombre": "MARÍA AZCOITIA PLAZA",
+"informacion": "REHABILITACIÓN"
+},
+{
+"lugar": "109",
+"Nombre": "VALENTINA MERINO LÓPEZ",
+"informacion": "REHABILITACIÓN"
+},
+{
+"lugar": "110",
+"Nombre": "JAVIER LÓPEZ SANCHEZ",
+"informacion": "PATOLOGÍA DE LA EDIFICACIÓN"
+},
+{
+"lugar": "111",
+"Nombre": "EMILIO LÓPEZ RUÍZ DE SALAZAR",
+"informacion": "PATOLOGÍA DE LA EDIFICACIÓN"
+},
+{
+"lugar": "112",
+"Nombre": "JESÚS GÍL RUBIO",
+"informacion": "DISEÑO / CÁLCULO DE ESTRUCTURAS DE EDIFICACIÓN"
+},
+{
+"lugar": "113",
+"Nombre": "MARÍA AZCOITIA PLAZA",
+"informacion": "REHABILITACIÓN"
+},
+{
+"lugar": "114",
+"Nombre": "VALENTINA MERINO LÓPEZ",
+"informacion": "REHABILITACIÓN"
 }
 ]
+
+
