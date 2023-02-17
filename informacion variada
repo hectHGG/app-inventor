@@ -1,1 +1,17 @@
 
+[{
+"pregunta 1": "101",
+"finalidad": "¿Cuál es la finalidad de la app?",
+"informacion": "la finalidad de la app es enseñar sitios de patrimonio industrial en Madrid y también para dar a conocer un poco más sobre que es el patrimonio industrial ya que es un tema del que no se habla mucho.\n Además lo enseñamos a traves de un mapa ya que es forma fácil y sencilla para localizar los lugares y para aportar información resumida sobre los sitios marcados"
+},
+{
+"pregunta 2": "102",
+"partimonio": "¿Qué es patrimonio industrial?",
+"informacion": "Según el IPCE, se entiende por patrimonio industrial el conjunto de los bienes muebles, inmuebles y sistemas de sociabilidad relacionados con la cultura del trabajo que han sido generados por las actividades de extracción, de transformación, de transporte, de distribución y gestión generadas por el sistema económico surgido de la revolución industrial.\n Estos bienes se deben entender como un todo integral compuesto por el paisaje en el que se insertan, las relaciones industriales en que se estructuran, las arquitecturas que los caracteriza, las técnicas utilizadas en sus procedimientos, los archivos generados durante su actividad y sus prácticas de carácter simbólico.\n El patrimonio industrial dispone de una metodología propia de carácter interdisciplinar que se denomina Arqueología Industrial. Esta disciplina científica estudia y pone en valor los vestigios materiales e inmateriales como testimonios históricos de los procesos productivos. Su estudio nos aproxima a una mejor comprensión de las estructuras y los procesos que han generado el desarrollo de las sociedades técnico-industriales, sus fuentes de energía, sus lugares y espacios de trabajo, su organización productiva y su forma de responder a una economía basada en la mecanización de los procesos productivos."
+},
+{
+"pregunta 3": "103",
+"Nombre": "Créditos",
+"informacion": "Gracias por haber usado la app.\n Hecha con todo el esfuerzo del mundo para que nos apruebe la profe de física.\n desarrollada por Héctor García,\n Santiago Sebastiani,\n Eydan Valencia,\n y Yassin Ennamous."
+}
+]
