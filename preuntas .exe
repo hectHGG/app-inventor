@@ -1,20 +1,21 @@
 [{
-"ayuda": "101",
-"pregunta": "¿Cómo veo la información de los sitios marcados en el mapa?",
-"respuesta": "para ver la información, debe presionar el marcador en rojo. una vez hecho, se le pondrá en frente la información del sitio que usted halla marcado."
-},
-{
-"ayuda": "102",
-"Nombre": "¿Qué hace cada boton del menú?",
-"respuesta": "en el menú se puede distingir varios botones: entre ellos esta el principal cuyo nombre es, ¿A dónde quiere ir?, si pulsa este botón se le abrirá el mapa directamente.\n Los demás botones que hay debajo de la cuadrícula de información sirven para aportar informacion sobre las preguntas puestas. si los presionas se te mostrará la información de cada pregunta, al igual que el mapa.\n Por último, en cada pantalla puedes encontrar un botón con la letra X que te llevará a la pestaña anterior"
-},
-{
-"ayuda": "103",
-"pregunta": "¿como contactarnos?",
-"respuesta": "Debemos decir que puede que la información puesta no sea muy completa, asi que dejamos @Damp_oficial por si tienes que reslover alguna duda mas profunda sobre la app"
-}
+		"ayuda": "101",
+		"pregunta": "¿Cómo veo la información de los sitios marcados en el mapa?",
+		"respuesta": "para ver la información, debe presionar el marcador en rojo. una vez hecho, se le pondrá en frente la información del sitio que usted halla marcado."
+	},
+	{
+		"ayuda": "102",
+		"Nombre": "¿Qué hace cada boton del menú?",
+		"respuesta": "en el menú se puede distingir varios botones: entre ellos esta el principal cuyo nombre es, ¿A dónde quiere ir?, si pulsa este botón se le abrirá el mapa directamente.\n Los demás botones que hay debajo de la cuadrícula de información sirven para aportar informacion sobre las preguntas puestas. si los presionas se te mostrará la información de cada pregunta, al igual que el mapa.\n Por último, en cada pantalla puedes encontrar un botón con la letra X que te llevará a la pestaña anterior"
+	},
+	{
+		"ayuda": "103",
+		"pregunta": "¿como contactarnos?",
+		"respuesta": "Debemos decir que puede que la información puesta no sea muy completa, asi que dejamos @Damp_oficial por si tienes que reslover alguna duda mas profunda sobre la app"
+	},
+	{
+		"ayuda": "104",
+		"pregunta": "compartir app QR",
+		"respuesta": "para compartir la app solo debes dar al boton compartir app, que te llevará a una pestaña donde deberás generar un código QR.\n Cuando se abra esa pestaña, pulsas en generar codigo QR y esperas a que aparezca el codigo para que pueda ser escaneado por los demás y asi la compartes"
+	}
 ]
-
-
-
-
